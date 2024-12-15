@@ -3,6 +3,8 @@
 Neste desafio desenvolvemos uma página de e-commerce para listar, cadastrar e deletar produtos utilizando HTML, CSS e JavaScript. Simulamos uma API usando o JSON Server para realizar operações CRUD (Create, Read, Update, Delete) com os dados dos produtos.
 
 
+#### Acesse a página web:
+* Acesse o AluraGeek e teste a inclusão e exclusão de produtos no catálogo clicando [aqui ](https://alura-geek-phi-eight.vercel.app/).
 
 
 

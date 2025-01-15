@@ -1,5 +1,5 @@
 # Challenge AluraGeek
-###### Curso: Formação Front-end da Alura + Oracle.
+###### Curso: Especialização Front-end da Alura + Oracle.
 Neste desafio desenvolvemos uma página de e-commerce para listar, cadastrar e deletar produtos utilizando HTML, CSS e JavaScript. Simulamos uma API usando o JSON Server para realizar operações CRUD (Create, Read, Update, Delete) com os dados dos produtos.
 
 
